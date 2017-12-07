@@ -1,4 +1,4 @@
-An impleament of faster rcnn by pure PyTorch
+An implementation of faster rcnn by pure PyTorch
 
 Most of the codes come from the  [ya_mxdet](https://github.com/linmx0130/ya_mxdet) since Gluon and PyTorch look like twins.
 
